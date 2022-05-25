@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 2px 0px 17px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 2px 0px 17px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 0px 17px 0px rgba(0, 0, 0, 0.75);
+}
+
+.headerName {
+  color: orange;
+}

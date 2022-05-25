@@ -1,0 +1,10 @@
+.home {
+  flex: 4;
+  margin: 10px;
+}
+
+.featured {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

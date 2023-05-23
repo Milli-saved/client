@@ -31,6 +31,8 @@ export default function Topbar() {
   //   }
   // }, [loggedIn]);
 
+  // This is another comment on the page.
+
   return (
     <div className="topbar">
       <div className="topbarWrapper">
@@ -43,6 +45,7 @@ export default function Topbar() {
             <span className="topIconBadge">2</span>
           </div>
           <div className="topbarIconsContainer">
+          
             <Language />
             <span className="topIconBadge">2</span>
           </div> */}
